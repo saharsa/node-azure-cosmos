@@ -2,7 +2,7 @@ import cosmos from '@azure/cosmos'
 import Student from './student.js'
 
 let config = {
-    connectionString: "AccountEndpoint=https://smschool.documents.azure.com:443/;AccountKey=hlDFnQJpXoZP0zo2wOAu2COpWmwlGigmCUmhkFrTnMnfr5qruXEhqroiEgOUBPCQcoLOWfXvPP4EYPyGHbxGKw==",
+    connectionString: "",
     database: "SchoolDB",
     container: "StudentCourseGrades"
 }
